@@ -133,6 +133,14 @@ No external frameworks or libraries are required.
 
 ## ▶️ How to Run
 
+（実行方法1）
+
+GitHub Pages:
+
+https://mitsuaki1.github.io/Soil-Microcosm/
+
+（実行方法2）
+
 Open the HTML file in a modern web browser:  
 （HTMLファイルをブラウザで開くだけで実行できます。）
 
